@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
   - [Data Mining Players Project](https://github.com/stephsoto/DataMining)
-  - [Data Cleaning MySQL ](https://github.com/joesotomayor/DataCleaning.sql)
+  - [Data Cleaning MySQL ](https://github.com/JoeSotomayor/DataCleaning.sql)
 
 
 <!--
