@@ -1,6 +1,9 @@
-<h1>Hi, I'm Stephani!</h1>
+<h1>Hi, I'm Joe!</h1>
 
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
+
+  - [Data Mining Players Project](https://github.com/stephsoto/DataMining)
+  - [Data Cleaning MySQL ](https://github.com/stephsoto/DataMining)
 
 
 <!--
