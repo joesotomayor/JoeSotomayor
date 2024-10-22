@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joe!</h1>
 
-<h2>👩🏻‍💻 Data Analyst Projects:</h2>
+<h2>👨🏻‍🔬 Data Analyst Projects:</h2>
 
 - <b>Machine Learning Algorithms</b>
   - [Apriori Algorithm: Three items most often purchased together with a grocery list](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
