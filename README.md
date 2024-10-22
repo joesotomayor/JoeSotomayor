@@ -12,7 +12,7 @@
   - [Data Cleaning](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/DataCleaning)
   - [Exploratory Data Analysis](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis.sql)
 
-- <b>Data Analysis & Correlation</b>
+- <b>Data Analysis</b>
   - [Correlation Matrix (Movies): Votes, budget, and gross earnings](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Movie_Correlation.ipynb)
   - [Bank Mortgage Visualization: Gender, Equity plan and PEP](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Visualization_Bank%20_Mortgage.ipynb)
  
@@ -21,7 +21,7 @@
   - [Text Mining with MongoDB: Bag of words, TF-IDF](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Text_Mining_MongoDB.ipynb)
  
 - <b>API Integration</b>
-  - [Open Weather API: Bringing city-specific data such as temperature, wind speed, and latitude](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
+  - [Open Weather: Bringing city-specific data such as temperature, wind speed, and latitude](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
   
 <!--
 **JoeSotomayor/JoeSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
