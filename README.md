@@ -3,10 +3,6 @@
 <h2>👩🏻‍💻 Data Analyst Projects:</h2>
 
 - <b>Machine Learning Algorithms</b>
-Apriori Algorithm: Three items most often purchased together with a grocery list.
-Naive Bayes: New credit card approvals (Naive Bayes algorithm).
-K-Nearest Neighbors (KNN): Relation between digits (confusion matrix, heat map, classification report)
-K-Means Clustering: Petal length and width correlation, centroid identification.
   - [Apriori Algorithm: Three items most often purchased together with a grocery list](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
   - [Naive Bayes: New credit card approvals](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
   - [K-Nearest Neighbors (KNN): Relation between digits (confusion matrix, heat map, classification report)](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/KNN_Digits.ipynb)
