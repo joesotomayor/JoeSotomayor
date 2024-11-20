@@ -16,6 +16,7 @@
   - [Correlation Matrix (Movies): Votes, budget, and gross earnings](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Movie_Correlation.ipynb)
   - [Bank Mortgage Visualization: Gender, Equity plan and PEP](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Visualization_Bank%20_Mortgage.ipynb)
   - [Bike Sales Dashboard](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Excel%20Project%20Dataset.xlsx)
+  - [Airbnb Market Analysis: Pricing, Listings, and Revenue Trends](https://public.tableau.com/app/profile/joe.sotomayor/viz/AirbnbFullProject_17321152986610/Dashboard1?publish=yes)
  
 - <b>Natural Language Processing (NLP)</b>
   - [Spam Detection: Using Multinomial Naive Bayes with sklearn Pipeline](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
