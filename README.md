@@ -1,70 +1,35 @@
 Hi, I’m Joe!
 
-I’m a Data Scientist and Prompt Engineering enthusiast based in Arlington, VA. With hands-on experience in Python, SQL, and cloud-based AI, I love turning messy data into clear insights and building LLM-powered tools that automate real-world workflows. Always learning—and always up for the next challenge in data & AI!
+Data Scientist & Prompt Engineering enthusiast based in Arlington, VA. I turn data into insights and build LLM-powered tools to automate real-world workflows.
 
 ⸻
 
-📋 Table of Contents
-	•	About Me
-	•	🚀 Projects
-	•	🧠 LLM
-	•	🤖 Machine Learning
-	•	🗄️ SQL
-	•	📊 Data Analysis
-	•	💬 Natural Language Processing (NLP)
-	•	🔗 API Integration
-	•	📫 Contact
-
-⸻
-
-🚀 Projects
+🚀 Proyectos Destacados
 
 🧠 LLM
-	•	Prompt Engineering: How to Build an Order Bot
-Built an interactive pizza-ordering chat bot UI using Panel and the OpenAI API.
-View code
+	•	Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API.
+Código
 
 🤖 Machine Learning
-	•	Apriori Algorithm: Three items most often purchased together with a grocery list
+	•	Apriori Algorithm: Reglas de asociación para lista de compras.
 Notebook
-	•	Naive Bayes: New credit card approvals
-Notebook
-	•	K-Nearest Neighbors (KNN): Digit recognition with confusion matrix, heat map, classification report
-Notebook
-	•	K-Means Clustering: Petal length and width correlation, centroid identification
+	•	Naive Bayes: Aprobaciones de tarjetas de crédito.
 Notebook
 
-🗄️ SQL
-	•	Data Cleaning
-Scripts
-	•	Exploratory Data Analysis
-Query
+🗄️ SQL & Data Analysis
+	•	Data Cleaning & EDA: Limpieza de datos y análisis exploratorio con SQL.
+Scripts & Queries
 
-📊 Data Analysis
-	•	Correlation Matrix (Movies): Votes, budget, and gross earnings
+💬 NLP & API
+	•	Spam Detection: Modelo Naive Bayes con scikit-learn.
 Notebook
-	•	Bank Mortgage Visualization: Gender, equity plan, and PEP
-Notebook
-	•	Bike Sales Trends: Customer demographics and purchase patterns
-Dataset
-	•	Airbnb Market Analysis: Pricing, listings, and revenue trends
-Dashboard
-
-💬 Natural Language Processing (NLP)
-	•	Spam Detection: Multinomial Naive Bayes with sklearn Pipeline
-Notebook
-	•	Text Mining with MongoDB: Bag of words, TF-IDF
-Notebook
-
-🔗 API Integration
-	•	Open Weather: Fetch city-specific data such as temperature, wind speed, and latitude
+	•	Open Weather: Integración API para datos climáticos.
 Notebook
 
 ⸻
 
-📫 Contact
+📫 Contacto
 
-Feel free to reach out!
 LinkedIn • Email
   
 <!--
