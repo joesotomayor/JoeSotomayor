@@ -1,6 +1,7 @@
 <h1>Hi, I'm Joe!</h1>
 
-<h2>👨🏻‍🔬 Data Analyst Projects:</h2>
+- <b>LLM</b>
+  - [Prompt Engineering: How to build an Order Bot](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
 
 - <b>Machine Learning</b>
   - [Apriori Algorithm: Three items most often purchased together with a grocery list](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
