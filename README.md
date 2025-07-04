@@ -1,30 +1,71 @@
-<h1>Hi, I'm Joe!</h1>
+Hi, I’m Joe!
 
-- <b>LLM</b>
-  - [Prompt Engineering: How to build an Order Bot](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
+I’m a Data Scientist and Prompt Engineering enthusiast based in Arlington, VA. With hands-on experience in Python, SQL, and cloud-based AI, I love turning messy data into clear insights and building LLM-powered tools that automate real-world workflows. Always learning—and always up for the next challenge in data & AI!
 
-- <b>Machine Learning</b>
-  - [Apriori Algorithm: Three items most often purchased together with a grocery list](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
-  - [Naive Bayes: New credit card approvals](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
-  - [K-Nearest Neighbors (KNN): Relation between digits (confusion matrix, heat map, classification report)](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/KNN_Digits.ipynb)
-  - [K-Means Clustering: Petal length and width correlation, centroid identification](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Petal_practice_KMeans_Unsupervised_Machine_Learning.ipynb)
- 
-- <b>SQL</b>
-  - [Data Cleaning](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/DataCleaning)
-  - [Exploratory Data Analysis](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis.sql)
+⸻
 
-- <b>Data Analysis</b>
-  - [Correlation Matrix (Movies): Votes, budget, and gross earnings](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Movie_Correlation.ipynb)
-  - [Bank Mortgage Visualization: Gender, Equity plan and PEP](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Visualization_Bank%20_Mortgage.ipynb)
-  - [Bike Sales Trends: Customer Demographics and Purchase Patterns](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Excel%20Project%20Dataset.xlsx)
-  - [Airbnb Market Analysis: Pricing, Listings, and Revenue Trends](https://public.tableau.com/app/profile/joe.sotomayor/viz/AirbnbFullProject_17321152986610/Dashboard1?publish=yes)
- 
-- <b>Natural Language Processing (NLP)</b>
-  - [Spam Detection: Using Multinomial Naive Bayes with sklearn Pipeline](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
-  - [Text Mining with MongoDB: Bag of words, TF-IDF](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Text_Mining_MongoDB.ipynb)
- 
-- <b>API Integration</b>
-  - [Open Weather: Bringing city-specific data such as temperature, wind speed, and latitude](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
+📋 Table of Contents
+	•	About Me
+	•	🚀 Projects
+	•	🧠 LLM
+	•	🤖 Machine Learning
+	•	🗄️ SQL
+	•	📊 Data Analysis
+	•	💬 Natural Language Processing (NLP)
+	•	🔗 API Integration
+	•	📫 Contact
+
+⸻
+
+🚀 Projects
+
+🧠 LLM
+	•	Prompt Engineering: How to Build an Order Bot
+Built an interactive pizza-ordering chat bot UI using Panel and the OpenAI API.
+View code
+
+🤖 Machine Learning
+	•	Apriori Algorithm: Three items most often purchased together with a grocery list
+Notebook
+	•	Naive Bayes: New credit card approvals
+Notebook
+	•	K-Nearest Neighbors (KNN): Digit recognition with confusion matrix, heat map, classification report
+Notebook
+	•	K-Means Clustering: Petal length and width correlation, centroid identification
+Notebook
+
+🗄️ SQL
+	•	Data Cleaning
+Scripts
+	•	Exploratory Data Analysis
+Query
+
+📊 Data Analysis
+	•	Correlation Matrix (Movies): Votes, budget, and gross earnings
+Notebook
+	•	Bank Mortgage Visualization: Gender, equity plan, and PEP
+Notebook
+	•	Bike Sales Trends: Customer demographics and purchase patterns
+Dataset
+	•	Airbnb Market Analysis: Pricing, listings, and revenue trends
+Dashboard
+
+💬 Natural Language Processing (NLP)
+	•	Spam Detection: Multinomial Naive Bayes with sklearn Pipeline
+Notebook
+	•	Text Mining with MongoDB: Bag of words, TF-IDF
+Notebook
+
+🔗 API Integration
+	•	Open Weather: Fetch city-specific data such as temperature, wind speed, and latitude
+Notebook
+
+⸻
+
+📫 Contact
+
+Feel free to reach out!
+LinkedIn • Email
   
 <!--
 **JoeSotomayor/JoeSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
