@@ -11,9 +11,8 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 Código
 
 🤖 Machine Learning
-	•	Apriori Algorithm: Reglas de asociación para lista de compras.
-Notebook
-	•	Naive Bayes: Aprobaciones de tarjetas de crédito.
+	•	[Apriori Algorithm: Reglas de asociación para lista de compras](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
+	•	[Naive Bayes: Aprobaciones de tarjetas de crédito](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
 Notebook
 
 🗄️ SQL & Data Analysis
