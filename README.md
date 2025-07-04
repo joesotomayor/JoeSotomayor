@@ -7,12 +7,11 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 🚀 Proyectos Destacados
 
 🧠 LLM
-	•	Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API.
-Código
+	•	[Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
 
 🤖 Machine Learning
-	•	[Apriori Algorithm: Reglas de asociación para lista de compras](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
-	•	[Naive Bayes: Aprobaciones de tarjetas de crédito](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
+- [Apriori Algorithm: Reglas de asociación para lista de compras](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
+- [Naive Bayes: Aprobaciones de tarjetas de crédito](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
 
 
 🗄️ Data Analysis
