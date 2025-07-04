@@ -7,7 +7,7 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 🚀 Proyectos Destacados
 
 🧠 LLM
-	•	[Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
+- [Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
 
 🤖 Machine Learning
 - [Apriori Algorithm: Reglas de asociación para lista de compras](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
@@ -15,17 +15,17 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 
 
 🗄️ Data Analysis
-	•	[Data Cleaning & EDA: Limpieza de datos y análisis exploratorio con SQL](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis.sql)
+- [Data Cleaning & EDA: Limpieza de datos y análisis exploratorio con SQL](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis.sql)
 
 💬 NLP & API
-	•	[Spam Detection: Modelo Naive Bayes con scikit-learn](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
-Notebook
-	•	[Open Weather: Integración API para datos climáticos](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
+- [Spam Detection: Modelo Naive Bayes con scikit-learn](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
+- [Open Weather: Integración API para datos climáticos](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
 ⸻
 
 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/joesy/) • [Email](jsotyza@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/joesy/)
+- Email:jsotyza@gmail.com
   
 <!--
 **JoeSotomayor/JoeSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
