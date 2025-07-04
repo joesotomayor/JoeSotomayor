@@ -13,23 +13,20 @@ Código
 🤖 Machine Learning
 	•	[Apriori Algorithm: Reglas de asociación para lista de compras](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Apriori_Algorithm.ipynb)
 	•	[Naive Bayes: Aprobaciones de tarjetas de crédito](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Credit_Card_Approval_Naive_Bayes_Algorithm.ipynb)
-Notebook
 
-🗄️ SQL & Data Analysis
-	•	Data Cleaning & EDA: Limpieza de datos y análisis exploratorio con SQL.
-Scripts & Queries
+
+🗄️ Data Analysis
+	•	[Data Cleaning & EDA: Limpieza de datos y análisis exploratorio con SQL](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis.sql)
 
 💬 NLP & API
-	•	Spam Detection: Modelo Naive Bayes con scikit-learn.
+	•	[Spam Detection: Modelo Naive Bayes con scikit-learn](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
 Notebook
-	•	Open Weather: Integración API para datos climáticos.
-Notebook
-
+	•	[Open Weather: Integración API para datos climáticos](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
 ⸻
 
 📫 Contacto
 
-LinkedIn • Email
+[LinkedIn](https://www.linkedin.com/in/joesy/) • [Email](jsotyza@gmail.com)
   
 <!--
 **JoeSotomayor/JoeSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
