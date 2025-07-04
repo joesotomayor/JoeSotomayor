@@ -20,6 +20,7 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 💬 NLP & API
 - [Spam Detection: Modelo Naive Bayes con scikit-learn](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/NB_Spam_Detection_Multinomial.ipynb)
 - [Open Weather: Integración API para datos climáticos](https://github.com/JoeSotomayor/PortfolioProjects/blob/main/OpenWeatherMap_API.ipynb)
+
 ⸻
 
 📫 Contacto
