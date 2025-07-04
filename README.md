@@ -1,6 +1,6 @@
 Hi, I’m Joe!
 
-Data Scientist & Prompt Engineering enthusiast based in Arlington, VA. I turn data into insights and build LLM-powered tools to automate real-world workflows.
+Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data into insights and build LLM-powered tools to automate real-world workflows.
 
 ⸻
 
