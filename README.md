@@ -7,6 +7,9 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 🚀 Proyectos Destacados
 
 🧠 LLM
+### 🥖 Prompt Engineering  
+- **Order Bot**: Web UI to build pizza orders conversationally (Panel, OpenAI API)  
+  <p align="center"><img src="assets/orderbot.gif" width="600"/></p>
 - [Order Bot: Chatbot UI para pedidos de pizza con Panel y OpenAI API](https://github.com/joesotomayor/PortfolioProjects/blob/main/prompt_engineering_course_deeplearningai.py)
 
 🤖 Machine Learning
@@ -26,7 +29,7 @@ Data Scientist & Prompt Engineering enthusiast based in Lima, Perú. I turn data
 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/joesy/)
-- Email:jsotyza@gmail.com
+- Email: jsotyza@gmail.com
   
 <!--
 **JoeSotomayor/JoeSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
